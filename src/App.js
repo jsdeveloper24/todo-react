@@ -13,7 +13,7 @@ function App() {
             completed: false,
         },
         {
-            text: 'Деплой ToDo на Git2',
+            text: 'Деплой ToDo на Git3',
             completed: true,
         },
     ]);
